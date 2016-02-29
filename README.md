@@ -6,3 +6,6 @@ Scrapy ``` pip install scrapy ```
 
 ###### Running the crawler:
 ``` scrapy crawl tutspider -o out.csv ```
+
+###### Demo :-
+[![asciicast](https://asciinema.org/a/91d57s66hmbek1x6bpa7goq29.png)](https://asciinema.org/a/91d57s66hmbek1x6bpa7goq29)
