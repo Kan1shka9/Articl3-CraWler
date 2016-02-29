@@ -1,3 +1,2 @@
 # Articl3-CraWler
-
-![Demo](http://i.imgur.com/SKIgZfBkjhk.gif)
+This is a scrapy project which crawls the <a><i>http://tutsplus.com/</i></a>
